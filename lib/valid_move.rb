@@ -1,5 +1,5 @@
 def valid_move?(board, index)
-  if index not in board
+  if index 
     FALSE
   else
     TRUE
